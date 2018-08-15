@@ -56,4 +56,7 @@ dkms.conf
 
 # Binarios de los ejercicios
 bin/ej*
-bin/sh
+bin/hola
+bin/writer
+bin/reader
+
